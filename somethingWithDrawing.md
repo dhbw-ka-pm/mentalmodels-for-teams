@@ -7,4 +7,5 @@ Jawoll
 
 This is really the actual file. actual
 
-[link to something](./newfile.md)
+[link to something](/newfile.md)
+test
