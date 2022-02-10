@@ -27,7 +27,11 @@ never forget the essence
 ![](Shu-Ha-Ri.svg)
 
 ```
-Explaination of the Picture?
+Each circle represents one of the Shu-Ha-Ri phases. In the first phase,
+your scope is restrained and you just follow the rules. In the second phase, 
+your scope is widened and you break some of the rules in order to
+try things out. In the third phase, you widen your scope to the maximum by 
+creating your own environment with its own rules. 
 ```
 
 
