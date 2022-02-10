@@ -11,7 +11,7 @@ In comparison to the growth mindset, the fixed mindset views talents, intelligen
 
 ## Illustration
 
-![](./drawings/NewGrowthMindset2.png)
+![](./drawings/NewGrowthMindsetDiagram.png)
 
 
 ## How to get a growth mindset?
@@ -45,5 +45,7 @@ https://www.youtube.com/watch?v=hiiEeMN7vbQ&ab_channel=StanfordAlumni
 [indeed](https://www.indeed.com/career-advice/career-development/fixed-vs-growth-mindset)
 
 [podcast](https://soundcloud.com/atlassian-software/perseverance-gumption-traps-and-maintaining-a-growth-mindset)
+
+[wgu.edu](https://www.wgu.edu/blog/what-is-growth-mindset-8-steps-develop-one1904.html)
 
 
