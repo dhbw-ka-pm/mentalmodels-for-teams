@@ -13,6 +13,8 @@ The people, process, technology (PPT) framework is often used in software compan
 
 ## Process
 
+Processes are the steps or actions that are combined to achieve a specific goal. They describe how we achieve the desired result in an organized way. Key steps, supporting steps, stakeholders, efficiency, …are important things in processes.
+
 ## Technology
 
 Technology provides tools that can be used to implement the process. It is important to not always go for the newest shiny tool but for the one which suits your team and process best. So technology should always be the last decision, after everything else is clear.
