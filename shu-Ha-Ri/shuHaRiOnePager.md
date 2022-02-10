@@ -15,7 +15,12 @@ are learned, practiced and followed\
 in a disciplined and repeated manner.
 
 ### Ha
-Detach
+Detaching from the standards and breaking with tradition
+
+HA is the stage where one has learned the techniques and now \
+starts to question and understand the background of the techniques and forms. \
+When the learner is ready, he should adapt (and even break) certain rules\
+to achieve the best results possible.
 
 ### Ri
 Transcend
