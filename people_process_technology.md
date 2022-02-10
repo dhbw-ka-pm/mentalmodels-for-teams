@@ -6,6 +6,11 @@ The people, process, technology (PPT) framework is often used in software compan
 
 ## People
 
+ - Arguably, this is the most crucial part of the triangle. 'People' refers to the workers within an organization. Without people, nothing can happen. 
+ - One of the biggest problems when it comes to this part of the triangle is time. It seems like people are consistently busy.
+ - When it comes to hiring the right individuals, you should look into their experiences, qualifications, and attitude. It's also important to make sure that you're hiring people who are passionate about the work they're going to be doing.
+ - At the same time, you have to balance communication between everyone who's a part of the change.
+
 ## Process
 
 ## Technology
