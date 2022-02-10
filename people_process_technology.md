@@ -19,7 +19,9 @@ Processes are the steps or actions that are combined to achieve a specific goal.
 
 Technology provides tools that can be used to implement the process. It is important to not always go for the newest shiny tool but for the one which suits your team and process best. So technology should always be the last decision, after everything else is clear.
 
-## Summary
+## Chart
+
+![Chart 1](People-Tools-Processes.png)
 
 ### Sources
 
