@@ -8,7 +8,11 @@ Art of mastering by ...
 ## Brief explaination/ Idea behind this concept
 
 ### Shu
-Learn
+Follow/Learn/Obey
+
+Basics, introductions, rules and techniques\
+are learned, practiced and followed\
+in a disciplined and repeated manner.
 
 ### Ha
 Detach
