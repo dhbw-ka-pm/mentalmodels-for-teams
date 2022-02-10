@@ -1,8 +1,6 @@
 # Hand, Head & Heart
-<p align="center">
-<img width="80%" height="auto" src="drawings/Head-Heart-Hand.png">
+![](drawings/Head-Heart-Hand.png)
 <!-- https://humanpsychology.com.au/hands-head-heart-the-21st-century-leadership-trinity/ -->
-</p>
 ## Introduction
 
 Head, Heart & Hand is a mental model that stands for the three components of motivation (3C).
@@ -17,12 +15,8 @@ _"Do I really like this activity?"_
 _"Am I good at this activity?"_
 ## Application
 The following graphic illustrates how these three aspects of motivation contribute to the best productivity and / or wellbeing of each collaborator. It is the goal of every project manager to achieve the status, represented by the white triangle in the middle for the entire team.
-<p align="center">
 
-<img width="80%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/3C-model_Fig3.jpg/450px-3C-model_Fig3.jpg">
-</p>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/3C-model_Fig3.jpg/450px-3C-model_Fig3.jpg)
 
-<p style="font-size: 8px">
-<a href="https://humanpsychology.com.au/hands-head-heart-the-21st-century-leadership-trinity/">https://humanpsychology.com.au/hands-head-heart-the-21st-century-leadership-trinity/</a><br/>
-<a href="https://en.wikipedia.org/wiki/3C-model">https://en.wikipedia.org/wiki/3C-model</a>
-</p>
+######https://humanpsychology.com.au/hands-head-heart-the-21st-century-leadership-trinity/
+######https://en.wikipedia.org/wiki/3C-model
