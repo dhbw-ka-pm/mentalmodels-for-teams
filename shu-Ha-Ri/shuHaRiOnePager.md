@@ -25,6 +25,9 @@ to achieve the best results possible.
 ### Ri
 Transcend
 
+In Ri, the "learner" has fully absorbed the knowledge of his teacher\
+and has matures into a master himself. \
+It is possible now, to follow his own view about the procedure.\
 never forget the essence
 
 
