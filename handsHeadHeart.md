@@ -20,4 +20,5 @@ The following graphic illustrates how these three aspects of motivation contribu
 
 ###### Source
 https://humanpsychology.com.au/hands-head-heart-the-21st-century-leadership-trinity/
+
 https://en.wikipedia.org/wiki/3C-model
