@@ -10,7 +10,7 @@ The people, process, technology (PPT) framework is often used in software compan
 
 ## Technology
 
-Technology privides tools that can be used to implement the process. It is important to not always go for the newest shiny tool but for the one which suits your team and process best. So technology should always be the last decision, after everything else is clear. 
+Technology provides tools that can be used to implement the process. It is important to not always go for the newest shiny tool but for the one which suits your team and process best. So technology should always be the last decision, after everything else is clear.
 
 ## Summary
 
