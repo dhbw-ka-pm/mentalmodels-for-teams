@@ -21,16 +21,17 @@ Stop avoiding challenges and face them instead
 
 ### 2. Obstacles
 Once you hit a roadblock stand up, put down whatever project is sucking the gumption out of you, walk away, and return when you’re feeling more inspired
+
 ### 3. Effort
 The phrase “no pain, no gain” is pure growth mindset!
 Would you rather shower off pangs of regret, or the sweat of accomplishment? C’mon, the answers are obvious.
+
 ### 4. Criticism
 Ask yourself two questions:
 1. What was the best part of the day?
 2. What went wrong, and how can I make sure it doesn’t happen again?
 
 ### 5. Success of others
-
 Giving other people credit for success and appreciating their skills without feeling jealous. 
 Also, you can use these skills to complement/improve your skills (especially important in a company/team).
 
