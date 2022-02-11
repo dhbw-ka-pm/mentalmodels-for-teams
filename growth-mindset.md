@@ -1,8 +1,8 @@
 # Growth Mindset
 
-When you have a growth mindset you believe that your abilities can be developed thorugh perseverance and effort.
+When you have a growth mindset you believe that your abilities can be developed through perseverance and effort.
 It means that you thrive on challenge, and don’t see failure as a way to describe yourself but as a springboard for growth and developing your abilities.
-Additionally growing at work, and outside work is essential.
+Additionally, growing at work, and outside work is essential.
 
 I've found that taking time to evaluate what I'm doing helps me stay on track with my work. When I notice myself losing focus, I try to remind myself that short-term frustration will likely lead to long-term improvement in my skills - if I just keep at it. A growth mindset 
 opens one up to more creativity and possibilities, and I find that I can achieve more and set higher goals.
@@ -29,7 +29,7 @@ Would you rather shower off pangs of regret, or the sweat of accomplishment? C�
 ### 4. Criticism
 Ask yourself two questions:
 1. What was the best part of the day?
-2. What went wrong, and how can I make sure it doesn’t happen again?
+2. What went wrong, and how can I make sure it does not happen again?
 
 ### 5. Success of others
 Giving other people credit for success and appreciating their skills without feeling jealous. 
