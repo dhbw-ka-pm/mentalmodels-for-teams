@@ -2,8 +2,10 @@
 
 ## General information
 
-japanese martial arts concept.... \
-Art of mastering by ...
+Shu Ha Ri is an ancient japanese martial arts concept \
+It describes the three stages of learning to mastery. \
+This concept is said to go back to KAWAKAMI FUHAKU (1719-1807).
+
 
 ## Brief explaination/ Idea behind this concept
 
@@ -15,11 +17,19 @@ are learned, practiced and followed\
 in a disciplined and repeated manner.
 
 ### Ha
-Detach
+Detaching from the standards and breaking with tradition
+
+HA is the stage where one has learned the techniques and now \
+starts to question and understand the background of the techniques and forms. \
+When the learner is ready, he should adapt (and even break) certain rules\
+to achieve the best results possible.
 
 ### Ri
 Transcend
 
+In Ri, the "learner" has fully absorbed the knowledge of his teacher\
+and has matures into a master himself. \
+It is possible now, to follow his own view about the procedure.\
 never forget the essence
 
 
