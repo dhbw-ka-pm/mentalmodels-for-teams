@@ -1,2 +1,2 @@
-# mentalmodels-for-teams
+# Mentalmodels-for-teams
 Hallo
