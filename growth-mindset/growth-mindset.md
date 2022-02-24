@@ -11,7 +11,7 @@ In comparison to the growth mindset, the fixed mindset views talents, intelligen
 
 ## Illustration
 
-![](./drawings/NewGrowthMindsetDiagram.png)
+![](../drawings/NewGrowthMindsetDiagram.png)
 
 
 ## How to get a growth mindset?
