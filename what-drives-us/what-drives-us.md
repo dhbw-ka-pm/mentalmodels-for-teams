@@ -24,7 +24,7 @@ But those who believe that they are working toward something larger and more imp
 
 ---
 
-### Source
+### Sources
 
 [www.mindtools.com](https://www.mindtools.com/pages/article/autonomy-mastery-purpose.htm#:~:text=To%20build%20an%20intrinsically%20motivated%20team%2C%20you%20need%20to%20focus,continue%20to%20improve%20their%20skills.)\
 [www.wikipedia.org](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us)
