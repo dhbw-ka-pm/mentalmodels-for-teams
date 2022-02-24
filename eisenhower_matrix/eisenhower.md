@@ -27,11 +27,11 @@ Then split the Matrix into the four categories:
 
 The Eisenhower principle sounds simple in theory, but in practice there are always challenges:
 
--often new tasks are constantly being created, so the time planning doesn't always work well
--Depending on the perspective and context, the tasks can be listed different
--Not everyone likes to work in a synchronized, 100% structured way
--Short, urgent tasks are left behind, even if their checking off the list helps with productivity
--The use of the matrix on a daily basis can time-consuming
+- often new tasks are constantly being created, so the time planning doesn't always work well
+- Depending on the perspective and context, the tasks can be listed different
+- Not everyone likes to work in a synchronized, 100% structured way
+- Short, urgent tasks are left behind, even if their checking off the list helps with productivity
+- The use of the matrix on a daily basis can time-consuming
 
 ## Sources
 
