@@ -6,7 +6,7 @@ The Eisenhower Matrix is a method to improve your timemanagement and structure y
 
 ![eisenhower_matrix](the-eisenhower-matrix.jpg)
 
-## Aim of the Eisenhover Matrix
+## Aim of the Eisenhower Matrix
 
 The aim of creating the Eisenhower Matrix is to sort tasks according to their **importance** and **urgency**.  
 It is a useful tool for increasing **effectiveness** and not for increasing efficiency.
