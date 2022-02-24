@@ -17,4 +17,3 @@ our mind. To use it more effectively we want to provide you with some useful too
 - [Circle of Influence](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/circle_of_influence/circleOfInfluence.html)
 - [People Process Technology](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/people_process_technology/people_process_technology.html)
 - [Shu-Ha-Ri](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/shu-Ha-Ri/shuHaRiOnePager.html)
-- [Hand, Head & Heart](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/Head-Heart-Hand/handsHeadHeart..html)
