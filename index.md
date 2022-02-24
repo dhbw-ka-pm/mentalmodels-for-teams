@@ -2,7 +2,7 @@
 
 ## Welcome
 
-### Who are we ?
+### Who are we?
 
 We are a group of computer-science students at the DHBW Karlsruhe and are creating this website as a part of our project management course.
 
