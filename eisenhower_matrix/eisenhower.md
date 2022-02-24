@@ -23,6 +23,13 @@ Then split the Matrix into the four categories:
 - **C: not important & urgent** 🟠
 - **D: not important & not urgent** ⚫
 
+## Advantages of the Eisenhower Matrix
+
+- It's easy to understand and use. It requires no special previous knowledge and no training period.
+- The division of the tasks into the four categories can usually be done quickly.
+- The principle helps to keep an eye on strategically important and urgent tasks.
+- Sorting can easily be supplemented with additional information such as a due date.
+
 ## Disadvantages of the Eisenhower Matrix
 
 The Eisenhower principle sounds simple in theory, but in practice there are always challenges:
