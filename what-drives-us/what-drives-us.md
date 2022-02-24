@@ -1,6 +1,6 @@
 # What drives us - Autonomy, Mastery, Purpose
 
-## **Introduktion**
+## **Introduction**
 
 The mental model "What drives us" is based on the book written by Daniel Pink. It argues that human motivation is largely intrinsic, and that the aspects of this motivation can be divided into autonomy, mastery, and purpose.
 
