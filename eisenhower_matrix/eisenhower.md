@@ -38,7 +38,13 @@ The Eisenhower principle sounds simple in theory, but in practice there are alwa
 - Depending on the perspective and context, the tasks can be listed different
 - Not everyone likes to work in a synchronized, 100% structured way
 - Short, urgent tasks are left behind, even if their checking off the list helps with productivity
-- The use of the matrix on a daily basis can time-consuming
+- The use of the matrix on a daily basis can be time-consuming
+
+## Citicism to Eisenhower Principle
+
+- Basically the Einsenhower principle is "common sense". Altough the matrix could be helpful to visualize structurization
+- Individual motives for completion of a task are not adressed
+- It is often not enough to prioritise tasks idividually. It would be better to exchange in teams, like it is common in Scrum
 
 ## Sources
 
