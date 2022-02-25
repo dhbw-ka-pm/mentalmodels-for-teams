@@ -40,7 +40,7 @@ The Eisenhower principle sounds simple in theory, but in practice there are alwa
 - Short, urgent tasks are left behind, even if their checking off the list helps with productivity
 - The use of the matrix on a daily basis can be time-consuming
 
-## Citicism to Eisenhower Principle
+## Criticism to Eisenhower Principle
 
 - Basically the Einsenhower principle is "common sense". Altough the matrix could be helpful to visualize structurization
 - Individual motives for completion of a task are not adressed
