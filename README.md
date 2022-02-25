@@ -18,3 +18,4 @@ our mind. To use it more effectively we want to provide you with some useful too
 - [People Process Technology](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/people_process_technology/people_process_technology.html)
 - [Shu-Ha-Ri](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/shu-Ha-Ri/shuHaRiOnePager.html)
 - [What drives us](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/what-drives-us/what-drives-us.html)
+- [Eisenhower matrix](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/eisenhower_matrix/eisenhower.html)
