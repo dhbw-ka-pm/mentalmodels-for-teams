@@ -19,3 +19,4 @@ our mind. To use it more effectively we want to provide you with some useful too
 - [Shu-Ha-Ri](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/shu-Ha-Ri/shuHaRiOnePager.html)
 - [Brook's law](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/brooks_law/brooks_law.html)
 - [What drives us](./what-drives-us/what-drives-us)
+- [Eisenhower matrix](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/eisenhower_matrix/eisenhower.html)
