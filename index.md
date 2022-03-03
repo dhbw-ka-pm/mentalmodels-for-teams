@@ -15,6 +15,7 @@ our mind. To use it more effectively we want to provide you with some useful too
 
 - [All Models are Wrong](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/all-models-are-wrong/all_models_are_wrong.html)
 - [Circle of Influence](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/circle_of_influence/circleOfInfluence.html)
+- [Context Switching](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/context-switching/contextSwitching.html)
 - [People Process Technology](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/people_process_technology/people_process_technology.html)
 - [Shu-Ha-Ri](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/shu-Ha-Ri/shuHaRiOnePager.html)
 - [Brook's law](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/brooks_law/brooks_law.html)
