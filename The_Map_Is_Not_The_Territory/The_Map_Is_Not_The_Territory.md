@@ -23,6 +23,9 @@
 
 3. A map needs **interpretation**, a process that can cause major errors.
 
+## What you should take from it
+
+This principle basically shows that we always work with a map, but if we change the map then the territory hasn't necissarily changed. Sometimes people tend to change the map in a way which fits for their goals but actually is wrong. E.g. Removing a mountain from the map because you'd like to pass there. So always make sure that your map is always as simmilar to the actual territory as possible in order to be able to make good decisions and forsee their outcome.
 ## Sources
 
 - [The Map Is Not the Territory](https://fs.blog/map-and-territory/)
