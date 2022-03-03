@@ -11,7 +11,8 @@ The expression originally comes from computing and describes how operating syste
 can handle multiple processes. When humans try to imitate that, 
 they will notice that it cuts short on our time and focus.
 
-![](../../stop-context-switching_graphic-1.png)
+![](stop-context-switching_graphic-1.png)
+
 ---
 ```
 When switching contexts,each component of what we are doing
@@ -45,3 +46,9 @@ Choose a method like “time blocking” or the “Pomodoro method” to stay fo
 
 ### Screen-free breaks
 When you step back from your computer, you give your brain a chance to refresh and recharge
+
+
+### Sources
+1. [Context Switching](https://blog.doist.com/context-switching/)
+2. [Video - What multitasking does to your brain](https://www.youtube.com/watch?v=tMiyzuO1qMs)
+3. [5 diagrams on context switching](https://www.atlassian.com/blog/productivity/context-switching)
