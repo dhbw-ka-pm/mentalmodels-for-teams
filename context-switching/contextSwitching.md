@@ -47,6 +47,20 @@ Choose a method like “time blocking” or the “Pomodoro method” to stay fo
 ### Screen-free breaks
 When you step back from your computer, you give your brain a chance to refresh and recharge
 
+### Develop awareness of distraction
+To break a habit is to become aware that you’re doing it and to protocol it. Simply noting a distraction makes the unconscious conscious.
+
+### Eliminate distractions
+Keep distracting media closed and muted, when you concentrate on work.
+
+### De-clutter and streamline your digital life
+Centralize your tasks and apps into a task manager app like [Todoist](https://todoist.com/).
+
+### Resist the urge to respond right away
+Limit yourself to how many times you check email.
+
+### Promote thoughtful communication
+Do your part to minimize the context switching others have to do. Be thoughtful about how often you send an email or chat.
 
 ### Sources
 1. [Context Switching](https://blog.doist.com/context-switching/)
