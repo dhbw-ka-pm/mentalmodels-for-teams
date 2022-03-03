@@ -32,6 +32,22 @@ Sophia LeRoy describes this as follows:
 
 “People experiencing attention residue after switching tasks are likely to demonstrate poor performance on that next task. The thicker the residue, the worse the performance.”
 
+# Why do we context switch?
+
+If context switching is something bad that diminishes our productivity, then why do we do it?
+There are 3 main reasons for it:
+
+### "You Got Mail"
+Our digital tools are designed to interrupt. No matter if its WhatsApp, Facebook, another instant messaging platform or even Email;
+With features like notifications and unread message symbols, our technology is designed by default to interrupt us.
+
+### Work culture rewards responsiveness
+This also exacerbates the next hazard: Context switching is inevitable in “always on,” workplaces, where
+there’s a real or perceived expectation that team members respond immediately to emails and team messaging tools.
+
+### We are our own worst enemy
+And the last and most surprising thing to watch out for: Interruptions aren’t just external. We’re actually just as likely to interrupt ourselves as we are to be interrupted.
+How many times have you had free time and wanted to use it to get something done, but instead you just did something unrelated, like maybe watching funny animal videos?
 
 # The costs of context switching
 
