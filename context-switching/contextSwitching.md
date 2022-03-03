@@ -32,6 +32,29 @@ Sophia LeRoy describes this as follows:
 
 “People experiencing attention residue after switching tasks are likely to demonstrate poor performance on that next task. The thicker the residue, the worse the performance.”
 
+
+# The costs of context switching
+
+### Kills productivity
+- slow thoughts and decisions
+  - can take up to 23 Minutes to re-focus after returning to a task
+  - context switching can take up to 40% of a person's productive time
+
+### impedes cognitive function
+- Our limited "brain storage" will be flooded whenever you do something that is another topic you have not been working on.
+  - e.g. News headlines, statistic reports, ...
+  
+### diminishes attention
+ - Isaac Newton: "If I have made any valuable discoveries, it has been owing more to patient attention than to any other talent"
+   - our attention is reduced by a huge amount by context switching even if it is our most important resource.
+### Depletes energy
+   - Our brains are not as good as phones are. Because of that we need to take some breaks when consuming information. 
+Other ways we can't keep up with all the information so that our energy will drop.
+
+### Confuses priorities
+- Our priorities will be at what's right in front of us and the most easy thing to do. Because of that we start to work on tasks that are more low-valued (like responding to emails).
+  - Our brain switches to "survival mode" where our stress leads to the need of accomplishing at least one thing.
+
 # Strategies to prevent context switching:
 
 ### Bullet Point List
