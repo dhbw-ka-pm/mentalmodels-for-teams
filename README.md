@@ -19,3 +19,4 @@ our mind. To use it more effectively we want to provide you with some useful too
 - [Shu-Ha-Ri](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/shu-Ha-Ri/shuHaRiOnePager.html)
 - [What drives us](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/what-drives-us/what-drives-us.html)
 - [Eisenhower matrix](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/eisenhower_matrix/eisenhower.html)
+- [Context Switching and Productivity](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/context-switching/contextSwitching.md)
