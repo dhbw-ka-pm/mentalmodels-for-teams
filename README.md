@@ -20,3 +20,4 @@ our mind. To use it more effectively we want to provide you with some useful too
 - [What drives us](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/what-drives-us/what-drives-us.html)
 - [Eisenhower matrix](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/eisenhower_matrix/eisenhower.html)
 - [Context Switching and Productivity](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/blob/gh-pages/context-switching/contextSwitching.md)
+- [Johari Window](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/blob/gh-pages/johari_window/johari_window.md)
