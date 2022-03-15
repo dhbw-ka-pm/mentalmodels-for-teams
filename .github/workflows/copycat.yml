@@ -19,4 +19,5 @@ jobs:
         dst_branch: gh-pages
         src_branch: live
         clean: true
-        exclude: */.github/workflows/*
+        exclude: "*/.github/workflows/*"
+       
