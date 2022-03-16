@@ -1,4 +1,4 @@
-# The blind men and the elephant
+# The blind men & an elephant
 
 ## Summary
 In the folk tale "The Blind Men and the Elephant", a group of blind men or men in complete darkness examine an elephant to understand what the animal is.
@@ -15,7 +15,15 @@ Each man examines a different part of the elephants body. Later they compare the
 
 -> mit Bild (Julien)
 
-## Origin (Jonas)
+## Origin 
+- not clear where the correct origin is from but its most likely from the south of asia.
+- The parable was used in many beliefs. Because of that there developed some variants of the original parable.
+  - the beliefs where Sufism, Jainism, Buddhism, or Hinduism
+- The variants of the parable are only differ in some little parts like:
+  - the count of men
+  - the way they describe the parts of the elephant
+  - the way the discussion takes part
+  - weather the conflict will be solved
 
 ## Moral / what we can learn 
 - The "elephant" in this story can stand for all kinds of things that we cannot properly assess.
@@ -28,3 +36,4 @@ Each man examines a different part of the elephants body. Later they compare the
 ### Sources
 1. [The Blind Man and the Elephant: A Short Story about Perspective](https://www.sloww.co/blind-men-elephant/)
 2. [The Blind Man and the Elephant](https://www.peacecorps.gov/educators/resources/story-blind-men-and-elephant/)
+3. [Wikipedia](https://de.wikipedia.org/wiki/Die_blinden_M%C3%A4nner_und_der_Elefant)
