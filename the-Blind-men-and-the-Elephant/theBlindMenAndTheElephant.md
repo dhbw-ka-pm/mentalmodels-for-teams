@@ -1,6 +1,18 @@
 # The blind men and the elephant
 
-## Summary (Willi)
+## Summary
+In the folk tale "The Blind Men and the Elephant", a group of blind men or men in complete darkness examine an elephant to understand what the animal is.
+Each man examines a different part of the elephants body. Later they compare their examinations to each other and find out that everyone has a different point of view:
+
+- The first man thinks it is a wall(elephants body).
+- The second man thinks it is a spear(elephants tusk).
+- The third man thinks it is a snake(elephants trunk).
+- The fourth man thinks it is a tree(elephants knee).
+- The fifth man thinks it is a fan(elephants ear).
+- The sixth man thinks it is a rope(elephants tail).
+
+-> The folk tale shows that reality can be understood differently depending on the perspective.
+
 -> mit Bild (Julien)
 
 ## Origin (Jonas)
