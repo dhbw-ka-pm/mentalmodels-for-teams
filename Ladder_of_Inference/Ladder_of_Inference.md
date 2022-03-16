@@ -13,6 +13,12 @@ Any directly observable data that surrounds us in our daily lives e.g.
 - newspaper articles
 - statistical results from a marketing survey
 
+## Select Data
+
+Here’s the thing, though: It’s not often that we use all available reality and facts to make decisions.
+
+We have the tendency to zero in on specific pieces of information, or perhaps even cherry pick certain pieces that better suit our preferences or agenda.
+
 ## Source
 
 - [The Ladder of Inference](https://thesystemsthinker.com/the-ladder-of-inference/)
