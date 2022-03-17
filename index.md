@@ -13,18 +13,20 @@ our mind. To use it more effectively we want to provide you with some useful too
 
 ## Mental Models
 
-- [All Models are Wrong](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/all-models-are-wrong/all_models_are_wrong.html)
-- [Circle of Influence](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/circle_of_influence/circleOfInfluence.html)
-- [Context Switching](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/context-switching/contextSwitching.html)
-- [People Process Technology](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/people_process_technology/people_process_technology.html)
-- [Shu-Ha-Ri](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/shu-Ha-Ri/shuHaRiOnePager.html)
-- [Brook's law](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/brooks_law/brooks_law.html)
-- [What drives us](./what-drives-us/what-drives-us)
-- [Eisenhower matrix](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/eisenhower_matrix/eisenhower.html)
-- [The Map Is Not the Territory](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/The_Map_Is_Not_The_Territory/The_Map_Is_Not_The_Territory.html)
-- [Johari Window](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/johari_window/johari_window.html)
-- [Conway's Law](./conways-law/conways-law.md)
-- [Ladder of Inference](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/Ladder_of_Inference/Ladder_of_Inference.html)
+- [All Models are Wrong](./all-models-are-wrong/all_models_are_wrong.html)
+- [Circle of Influence](./circle_of_influence/circleOfInfluence.html)
+- [Context Switching](./context-switching/contextSwitching.html)
+- [People Process Technology](./people_process_technology/people_process_technology.html)
+- [Shu-Ha-Ri](./shu-Ha-Ri/shuHaRiOnePager.html)
+- [Brook's law](./brooks_law/brooks_law.html)
+- [What drives us](./what-drives-us/what-drives-us.html)
+- [Eisenhower matrix](./eisenhower_matrix/eisenhower.html)
+- [The Map Is Not the Territory](./The_Map_Is_Not_The_Territory/The_Map_Is_Not_The_Territory.html)
+- [Johari Window](./johari_window/johari_window.html)
+- [Conway's Law](./conways-law/conways-law.html)
+- [Ladder of Inference](./Ladder_of_Inference/Ladder_of_Inference.html)
+- [Growth Mindset](./growth-mindset/growth-mindset.html)
+- [Hand Head Heart](./hand-head-heart/handsHeadHeart.html)
 
 ### License Agreement
 
