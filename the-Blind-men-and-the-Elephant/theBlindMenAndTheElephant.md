@@ -13,7 +13,8 @@ Each man examines a different part of the elephants body. Later they compare the
 
 -> The folk tale shows that reality can be understood differently depending on the perspective.
 
--> mit Bild (Julien)
+
+![](The-Blind-Men-and-the-Elephant.png)
 
 ## Origin 
 - not clear where the correct origin is from but its most likely from the south of asia.
