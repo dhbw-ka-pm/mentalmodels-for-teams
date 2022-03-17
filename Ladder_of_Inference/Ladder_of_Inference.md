@@ -19,6 +19,10 @@ Here’s the thing, though: It’s not often that we use all available reality a
 
 We have the tendency to zero in on specific pieces of information, or perhaps even cherry pick certain pieces that better suit our preferences or agenda.
 
+## Paraphrase Data
+
+When the data we choose involves human contact, such as spoken language, written communication, or gesture. We translate what the individual is saying or doing into our own (unspoken) words. This paraphrase happens as we listen and is crucial to our understanding of what individuals are saying.
+
 ## Source
 
 - [The Ladder of Inference](https://thesystemsthinker.com/the-ladder-of-inference/)
