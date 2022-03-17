@@ -23,6 +23,10 @@ We have the tendency to zero in on specific pieces of information, or perhaps ev
 
 When the data we choose involves human contact, such as spoken language, written communication, or gesture. We translate what the individual is saying or doing into our own (unspoken) words. This paraphrase happens as we listen and is crucial to our understanding of what individuals are saying.
 
+## Name And Explan/Evaluate What Is Happening And Decide What To Do
+
+The paraphrased data is then used to characterize what is happening into a more general category. Then we explain why it is happening and if it is good or bad by using our stock of causal theories and our value system. Based on this evaluation we then draw our repertoire of actions and decide what to do.
+
 ## Reflexive Loop
 
 Our assumptions, values, and beliefs influence how we select data. We act on the basis of our interpretations. So our ways of understanding and acting create a self-reinforcing system, insulating us from alternative ways of understanding.
