@@ -1,0 +1,23 @@
+name: Copy-to-live
+on:
+  push:
+    branches:
+      - live
+
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Copycat
+      uses: andstor/copycat-action@v3
+      with:
+        personal_token: ${{ secrets.COPYCAT_TOKEN }}
+        src_path: /.
+        dst_path: /.
+        dst_owner: dhbw-ka-pm
+        dst_repo_name: mentalmodels-for-teams-live
+        dst_branch: gh-pages
+        src_branch: live
+        clean: true
+        exclude: "*/.github/workflows/*"
+       
