@@ -23,6 +23,7 @@ our mind. To use it more effectively we want to provide you with some useful too
 - [The Map Is Not Territory](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/blob/gh-pages/The_Map_Is_Not_The_Territory/The_Map_Is_Not_The_Territory.md)
 - [Johari Window](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/blob/gh-pages/johari_window/johari_window.md)
 - [Conway's Law](./conways-law/conways-law.md)
+- [Ladder of Inference](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/Ladder_of_Inference/Ladder_of_Inference.html)
 
 ### License Agreement
 
