@@ -13,14 +13,31 @@ our mind. To use it more effectively we want to provide you with some useful too
 
 ## Mental Models
 
-- [All Models are Wrong](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/all-models-are-wrong/all_models_are_wrong.html)
-- [Circle of Influence](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/circle_of_influence/circleOfInfluence.html)
-- [Context Switching](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/context-switching/contextSwitching.html)
-- [People Process Technology](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/people_process_technology/people_process_technology.html)
-- [Shu-Ha-Ri](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/shu-Ha-Ri/shuHaRiOnePager.html)
-- [Brook's law](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/brooks_law/brooks_law.html)
-- [What drives us](./what-drives-us/what-drives-us)
-- [Eisenhower matrix](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/eisenhower_matrix/eisenhower.html)
-- [The Blind Men and the Elephant](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/the-Blind-men-and-the-Elephant/theBlindMenAndTheElephant.html)
-- [The Map Is Not the Territory](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/The_Map_Is_Not_The_Territory/The_Map_Is_Not_The_Territory.html)
-- [Johari Window](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/johari_window/johari_window.html)
+- [All Models are Wrong](./all-models-are-wrong/all_models_are_wrong.html)
+- [Circle of Influence](./circle_of_influence/circleOfInfluence.html)
+- [Context Switching](./context-switching/contextSwitching.html)
+- [People Process Technology](./people_process_technology/people_process_technology.html)
+- [Shu-Ha-Ri](./shu-Ha-Ri/shuHaRiOnePager.html)
+- [Brook's law](./brooks_law/brooks_law.html)
+- [What drives us](./what-drives-us/what-drives-us.html)
+- [Eisenhower matrix](./eisenhower_matrix/eisenhower.html)
+- [The Blind Men and the Elephant](./the-Blind-men-and-the-Elephant/theBlindMenAndTheElephant.html)
+- [The Map Is Not the Territory](./The_Map_Is_Not_The_Territory/The_Map_Is_Not_The_Territory.html)
+- [Johari Window](./johari_window/johari_window.html)
+- [Conway's Law](./conways-law/conways-law.html)
+- [Ladder of Inference](./Ladder_of_Inference/Ladder_of_Inference.html)
+- [Growth Mindset](./growth-mindset/growth-mindset.html)
+- [Hand Head Heart](./hand-head-heart/handsHeadHeart.html)
+
+### License Agreement
+
+Everything you see in this page is free: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+You can view the relevant licenses under  
+[https://www.gnu.org/licenses/gpl-3.0](https://www.gnu.org/licenses/gpl-3.0.txt)
+
+[http://www.gnu.org/licenses](http://www.gnu.org/licenses)
+
+Likewise, we try to adhere to any applicable law and respect the concept of intellectual property. If you do feel like we have unjustifiedly used any content we were not authorized to use, please do not hesitate to contact us, so we can remedy this as quickly as possible.
+
+Contact us under (lukaskellermeier@gmx.de)

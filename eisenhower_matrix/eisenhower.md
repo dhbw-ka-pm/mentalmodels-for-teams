@@ -23,6 +23,13 @@ Then split the Matrix into the four categories:
 - **C: not important & urgent** 🟠
 - **D: not important & not urgent** ⚫
 
+## Principles of the Eisenhower Matrix
+
+- Important tasks are those that are directly related to defined goals.
+- Urgent tasks cannot be postponed and should ideally be completed immediately.
+- Important and urgent tasks should be completed by yourself as quickly as possible.
+- Urgent, but not important tasks should – if possible – be delegated or automated.
+
 ## Advantages of the Eisenhower Matrix
 
 - It's easy to understand and use. It requires no special previous knowledge and no training period.
@@ -40,7 +47,7 @@ The Eisenhower principle sounds simple in theory, but in practice there are alwa
 - Short, urgent tasks are left behind, even if their checking off the list helps with productivity
 - The use of the matrix on a daily basis can be time-consuming
 
-## Criticism to Eisenhower Principle
+## Citicism to Eisenhower Principle
 
 - Basically the Einsenhower principle is "common sense". Altough the matrix could be helpful to visualize structurization
 - Individual motives for completion of a task are not adressed
