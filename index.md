@@ -21,6 +21,7 @@ our mind. To use it more effectively we want to provide you with some useful too
 - [Brook's law](./brooks_law/brooks_law.html)
 - [What drives us](./what-drives-us/what-drives-us.html)
 - [Eisenhower matrix](./eisenhower_matrix/eisenhower.html)
+- [The Blind Men and the Elephant](./the-Blind-men-and-the-Elephant/theBlindMenAndTheElephant.html)
 - [The Map Is Not the Territory](./The_Map_Is_Not_The_Territory/The_Map_Is_Not_The_Territory.html)
 - [Johari Window](./johari_window/johari_window.html)
 - [Conway's Law](./conways-law/conways-law.html)
