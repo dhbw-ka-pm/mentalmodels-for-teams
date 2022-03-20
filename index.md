@@ -28,6 +28,7 @@ our mind. To use it more effectively we want to provide you with some useful too
 - [Ladder of Inference](./Ladder_of_Inference/Ladder_of_Inference.html)
 - [Growth Mindset](./growth-mindset/growth-mindset.html)
 - [Hand Head Heart](./hand-head-heart/handsHeadHeart.html)
+- [Iceberg](./Iceberg/Iceberg.html)
 
 ### License Agreement
 
