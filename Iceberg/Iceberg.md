@@ -5,7 +5,7 @@ Iceberg model is a tool that allows you to shift your perspective and see beyond
 that everyone notices. It helps you to uncover root causes of why those events happen. That's possible 
 by looking at deeper levels of abstraction within the system that are not immediately obvious.
 
-![](Iceberg.png)
+![](iceberg.png)
 
 ###1. The Event Level
 
