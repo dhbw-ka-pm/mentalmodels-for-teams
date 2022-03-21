@@ -25,6 +25,7 @@ our mind. To use it more effectively we want to provide you with some useful too
 - [Conway's Law](./conways-law/conways-law.md)
 - [Ladder of Inference](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/Ladder_of_Inference/Ladder_of_Inference.html)
 - [The blind men & an elephant](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/blob/gh-pages/the-Blind-men-and-the-Elephant/theBlindMenAndTheElephant.md)
+- [Iceberg](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/blob/gh-pages/Iceberg/Iceberg.md)
 
 ### License Agreement
 
