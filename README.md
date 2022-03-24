@@ -25,13 +25,14 @@ our mind. To use it more effectively we want to provide you with some useful too
 - [Conway's Law](./conways-law/conways-law.md)
 - [Ladder of Inference](https://dhbw-ka-pm.github.io/mentalmodels-for-teams/Ladder_of_Inference/Ladder_of_Inference.html)
 - [The blind men & an elephant](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/blob/gh-pages/the-Blind-men-and-the-Elephant/theBlindMenAndTheElephant.md)
+- [Hand Head Heart](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/blob/gh-pages/hand-head-heart/handsHeadHeart.md)
 - [Iceberg](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/blob/gh-pages/Iceberg/Iceberg.md)
 
 ### License Agreement
 
 Everything you see in this page is free: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-You can view the relevant licenses under  
+You can view the relevant licenses under
 [https://www.gnu.org/licenses/gpl-3.0](https://www.gnu.org/licenses/gpl-3.0.txt)
 
 [http://www.gnu.org/licenses](http://www.gnu.org/licenses)
