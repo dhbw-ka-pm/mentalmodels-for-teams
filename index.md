@@ -29,6 +29,7 @@ our mind. To use it more effectively we want to provide you with some useful too
 - [Growth Mindset](./growth-mindset/growth-mindset.html)
 - [Hand Head Heart](./hand-head-heart/handsHeadHeart.html)
 - [Iceberg](./Iceberg/Iceberg.html)
+- [Goodhart's Law](./goodharts_law/goodharts_law.html)
 
 ### License Agreement
 
